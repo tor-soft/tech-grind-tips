@@ -12,11 +12,11 @@ It's not about rote memorization like some chump reciting multiplication tables.
     *   Do you need multiple patterns? (e.g., Sliding Window *with* a Hash Map, BFS *on* an implicit graph).
 5.  **Code It Clean & Handle Edges:** Use good names. Think about empty input, `k=0`, target not found, single-element arrays. Don't look like a rookie.
 
+---
+
 Here's a more comprehensive list of keyword associations, expanding on the initial examples:
 
 **Data Structure / Algorithm -> Keywords & Problem Characteristics**
-
----
 
 **1. Hash Map / Hash Set (Dictionary / Set)**
     *   **Keywords:** "count", "frequency", "counts of", "how many", "duplicates", "contains", "find if exists", "unique", "group", "anagrams"
